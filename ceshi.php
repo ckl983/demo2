@@ -7,6 +7,8 @@
  		# code...
  	}
 
-
+ 	 foreach ($variable as $key => $value) {
+ 	 	echo $value;
+ 	 }
 
 ?>
